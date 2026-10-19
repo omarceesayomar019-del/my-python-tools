@@ -1,0 +1,7 @@
+print("="*30)
+print("  PYTHON TOOLS by Sukuta")
+print("="*30)
+print("1. Password Checker")
+print("2. Password Generator")
+print("3. Calculator")
+print("4. Site Checker")
